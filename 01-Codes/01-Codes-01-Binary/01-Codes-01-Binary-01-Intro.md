@@ -2,28 +2,30 @@
 
 ## Was ist Code
 
+### Alphabete / Zeichenvorräte
+
 - Endlicher Zeichenvorrat (Symbole)
 - Folge von Zeichen (Alphabet)
-- Codierung: 
 
-#### Alphabete / Zeichenvorräte
+#### Beispiele
+
 - Ziffern `0` bis `9`
 - Farben `rot`, `grün` und `blau`
 - Ziffern `0` und `1`
 - Buchstaben `A` ... `Z`
 - Noten `do`, `re`, `mi` ...
 
-#### Codes / Codierungen
+### Codes / Codierungen
 - Abbildungsvorschrift: Urbildmenge → Bildmenge
 - Morse-Code → Folge von Langen und Kurzen Tönen (und Pausen)
 - Binär-Code: Zahl → Folge von Nullen und Einsen
 
-#### Computer-Programm
+### Computer-Programm
 
 - Source-Code → Instruktionen / Maschinenbefehle 
 - Assembler-Code: Maschinenbefehle → Nullen und Einsen
 
-#### Ist das Code?
+### Ist das Code?
 
 - Braille-Schrift
 - Flaggen-Alphabet (Semaphor)
@@ -31,7 +33,7 @@
 - Lateinische Schrift
 - Kochrezept
 
-#### Fragen
+### Fragen
 
 - Was ist die Urbildmenge
 - Was ist die Bildmenge
@@ -39,11 +41,11 @@
 
 ## Codieren aber wie?
 
-#### Code-Tabelle / Lookup-Table
+### Code-Tabelle / Lookup-Table
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/500px-International_Morse_Code.svg.png)
 
-#### Regelwerk, Programm
+### Regelwerk, Programm
 
 ![](https://cdn.duden.de/public_files/2019-02/20.-Auflage-1991-(2).jpg)
 
@@ -83,7 +85,8 @@
 ### Mathe im 20. Jahrhundert
 [Principia Mathematica](https://de.wikipedia.org/wiki/Principia_Mathematica) (Russel & Whithead)
 
-- Der Traum: **Eine** Sprache der Matheamtik finden
+Der Traum: **Eine** Sprache der Matheamtik finden  
+ 
 - Symbolische Mathematik
 - Struktur-Wissenschaft
 - Regel-System
@@ -91,24 +94,28 @@
 	- Regeln / Axiome (Automatisierbare Rechenvorschriften)
 	- Satz (Theorem)
 
-### Automatisches Beweise
+### Automatisches Beweisen
 ![](https://www.stephenwolfram.com/publications/introduction-to-a-new-kind-of-science/images/Slide091.gif)
 
-## Kurt Gödel
+*Quelle: Stephen Wolfram's [A new Kind of Science](https://www.wolframscience.com/nks/)*
 
-- **Axiome, Regeln, Sätze = alles Zahlen!**
+### Kurt Gödel
 
-- Nebenprodukt: [Unvollständigkeitssatz](https://de.wikipedia.org/wiki/G%C3%B6delscher_Unvollst%C3%A4ndigkeitssatz) — Jedes hinreichend mächtige [...] System ist entweder **widersprüchlich** oder **unvollständig**
+**Axiome, Regeln, Sätze = alles Zahlen!**   
+
+Nebenprodukt:  
+[Unvollständigkeitssatz](https://de.wikipedia.org/wiki/G%C3%B6delscher_Unvollst%C3%A4ndigkeitssatz) — Jedes hinreichend mächtige [...] System ist entweder **widersprüchlich** oder **unvollständig**
 	- Unvollständig: Es gibt Dinge die ich nicht beweisen kann
 	- Widersprüchlich: Ich kann etwas Beweisen und das Gegenteil auch.
 
-## Alan Turing
+### Alan Turing
 
-- **Input, Output, Computer-Programm = alles Zahlen!**
+**Input, Output, Computer-Programm = alles Zahlen!**   
+
 - Nebenprodukt:
 	- [Halteproblem](https://de.wikipedia.org/wiki/Halteproblem#Problemstellung), Nicht-Berechenbarkeit
 
-### Codier-Maschine
+#### Codier-Maschine
 
 [Enigma](https://de.wikipedia.org/wiki/Enigma_(Maschine)): **Codieren = Verschlüsseln**
 

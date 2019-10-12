@@ -1,7 +1,6 @@
 # Binäre Codes — Werkzeuge
 
-
-### Editoren
+## Editoren
 - [HexEd](https://hexed.it/) — Online
 - [HexWorks](http://hex-works.com/) — Online
 - [HexFiend](http://ridiculousfish.com/hexfiend/) — OSX
@@ -9,7 +8,7 @@
 - [WxHexEditor](https://www.wxhexeditor.org/) — Linux
 - [Neo](https://www.hhdsoftware.com/free-hex-editor/)  — Win
 
-### Visualisierung
+## Visualisierung
 
 - [BinViz](https://binvis.io) — Online
 - [Veles](https://codisec.com/veles/) — Win, Linux, OSX
