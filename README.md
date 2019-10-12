@@ -1,7 +1,4 @@
-# technisches-grundlagenprojekt
-
 ## Fahrplan
-
 
 ### Code & Medien
 
