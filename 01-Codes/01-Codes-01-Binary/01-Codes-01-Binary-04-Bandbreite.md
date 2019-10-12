@@ -1,1 +1,0 @@
-# Binäre Codes — Bandbreite
