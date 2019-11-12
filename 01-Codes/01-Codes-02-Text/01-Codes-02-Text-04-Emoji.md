@@ -20,3 +20,8 @@
 - Einfügen ( Emoji finden und einfügen)
 - Ersetzen ( Text in Emoji übersetzen)
 - Predict  ( Autocomplete für Emojis )
+
+## Freie Emojis
+
+- Openmoji
+- Tweemoji

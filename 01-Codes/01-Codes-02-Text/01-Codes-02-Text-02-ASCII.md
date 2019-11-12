@@ -20,10 +20,8 @@
 
 ### Demo
 - [Encode-Decode](http://string-functions.com/encodedecode.aspx)
-
-#### Iconv-Aufgabe
-
-`Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich` kodieren
+- Satz mit allen Buchstaben des deutschen Alphabets:  
+  `Zwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich` kodieren
 
 
 
