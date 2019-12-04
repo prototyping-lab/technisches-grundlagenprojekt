@@ -6,7 +6,7 @@
 | Theorie 01 + 02 | 10. OCT 2019   | [Binary](01-Codes/01-Codes-01-Binary) + [Text](01-Codes/01-Codes-02-Text)  |
 | Theorie 03 + 04 | 24. OCT 2019   | [Markup](01-Codes/01-Codes-03-Markup) |
 | Theorie 05 + 06 | 31. OCT 2019   | Pixel + Vector |
-| Workshop I      | 09. NOV 2019   | **GlitchArt Workshop** |
+| Workshop I      | 09. NOV 2019   | **[GlitchArt Workshop](01-Codes/01-Codes-04-Glitchart)** |
 
 ### Medien & Interaktion
 
