@@ -2,9 +2,9 @@
 
 Inspiration: Biologie, DNA, ...
 
-- [Mutation](03-Codes-03-Markup-04-Glitchart-02-Mutation.md)
-- [Crossover](03-Codes-03-Markup-04-Glitchart-03-Crossover.md)
-- [Viren](03-Codes-03-Markup-04-Glitchart-04-Viren.md)
+- [Mutation](01-Codes-03-Markup-04-Glitchart-02-Mutation.md)
+- [Crossover](01-Codes-03-Markup-04-Glitchart-03-Crossover.md)
+- [Viren](01-Codes-03-Markup-04-Glitchart-04-Viren.md)
 
 ### Beispiele
 
