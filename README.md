@@ -22,6 +22,6 @@
 
 | Type            | Date           | Topic               |
 |-----------------|----------------|---------------------|
-| Theorie 13 + 14 | 09. JAN 2019   | [Vernetzen](04-Networking/04-Networking-03-Vernetzen)  + [Steuern](04-Networking/04-Networking-03-Steuern)  |
+| Theorie 13 + 14 | 09. JAN 2019   | [Vernetzen](04-Networking/04-Networking-01-Vernetzen)  + [Steuern](04-Networking/04-Networking-02-Steuern)  |
 | Workshop III    | 17. JAN 2019   | **Networking Workshop** |  
 
