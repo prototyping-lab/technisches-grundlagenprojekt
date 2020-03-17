@@ -15,7 +15,7 @@
 |-----------------|----------------|--------------------|
 | Theorie 07 + 08 | 21. NOV 2019   | [Animation](02-Medien/02-Medien-03-Animation)  |
 | Theorie 09 + 10 | 05. DEZ 2019   | [Sound](02-Medien/02-Medien-04-Sound)         |
-| Theorie 11 + 12 | 19. DEZ 2019   | [Interaction](02-Medien/02-Medien-05-Interaction)  |
+| Theorie 11 + 12 | 19. DEZ 2019   | [Interaktion](03-Interaktion)  |
 | Workshop II     | 20. DEZ 2019   | **Interaction Workshop** |
 
 ### Networking
