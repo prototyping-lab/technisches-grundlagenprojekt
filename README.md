@@ -1,2 +1,2 @@
 
-## [Fahrplan](https://github.com/prototyping-lab/technisches-grundlagenprojekt/wiki/)
+## [Fahrplan](https://github.com/prototyping-lab/technisches-grundlagenprojekt/wiki/Fahrplan)
